@@ -1,0 +1,17 @@
+ISI MEDIA — DEPLOYMENT CHECKLIST
+
+[ ] Create/sign in to GitHub
+[ ] Create public repository: isi-media-demo
+[ ] Upload the CONTENTS of this folder to the repository root
+[ ] Confirm app.py and requirements.txt are at repository root
+[ ] Confirm .streamlit/config.toml was uploaded
+[ ] Sign in to Streamlit Community Cloud with GitHub
+[ ] Create app from repository / main / app.py
+[ ] Choose Python 3.12 in Advanced settings if available
+[ ] Deploy and wait for successful build
+[ ] Open the resulting streamlit.app URL
+[ ] Test image upload, brightness, contrast, grayscale, blur and image download
+[ ] Test video upload/playback, video properties and first-frame download
+[ ] Test invalid/corrupt files and check Cloud logs if errors occur
+
+Do not claim the public app is live until a real streamlit.app URL has been created and tested.
